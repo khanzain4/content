@@ -77,6 +77,8 @@ Our [HTML Learning Area](/en-US/docs/Learn/HTML) features multiple modules that 
 - [Quirks mode and standards mode](/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode)
   - : Historical information on quirks mode and standards mode.
 
+- [HTML Tutorial guide](https://iqratechnology.com/academy/html-training/html-basic-structure/).
+  - : Basic Structure Concept.
 ## Related topics
 
 - [Applying color to HTML elements using CSS](/en-US/docs/Web/CSS/CSS_colors/Applying_color)
